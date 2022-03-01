@@ -9,7 +9,7 @@
     4)  chaque caractere chiffre est toujours represente par le meme caractere, facile a force
     5)  cela signifie que les donnée ne doivent pas avoir été modifié une fois que l'on déchiffre
         le message chiffre
-        nouveau contenu gg kgkgk
+        nouveau contenu gg kgkgk hhhhh
 */
 void chiff_cesar(int deplacement,char *nom_fic_clair,char *nom_fic_chiff)
 {
